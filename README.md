@@ -1,7 +1,7 @@
-Introduction:\
+Introduction:
 The Picture Gallery Application is a captivating web-based image gallery designed to empower users in discovering and viewing images from Unsplash.com. This application beautifully combines artistry and technology, showcasing the developer's proficiency in JavaScript, CSS, HTML, and API integration. With a commitment to modern front-end development techniques, this application delivers an aesthetically pleasing and responsive user interface that invites exploration.
 
-Features
+Features:
 The Picture Gallery Application offers a captivating set of features, enhancing the user experience in every visit:
 
 1. Text Input Field
@@ -13,8 +13,8 @@ The application elegantly presents the retrieved images in a responsive grid lay
 4. Mobile Responsiveness
 In recognition of the diverse landscape of modern devices, the gallery is thoughtfully designed to seamlessly adapt to various screen sizes. Mobile users will appreciate the gallery's single-column layout, providing an optimal viewing experience.
 Requirements
-To embark on your visual journey through the Picture Gallery Application, ensure that you meet these essential requirements:
 
+To embark on your visual journey through the Picture Gallery Application, ensure that you meet these essential requirements:
 1. Internet Connection
 A reliable internet connection is your gateway to the world of stunning images. The application relies on real-time API calls to Unsplash.com to retrieve images, promising an ever-fresh collection.
 2. Web Browser
@@ -34,5 +34,4 @@ Initiate Search:
 
 Behold the "Search" button, a beacon of discovery. Click upon it to set in motion the search for visual treasures.
 Image Display:
-
 The gallery unfurls before your eyes, presenting the retrieved images in a visually captivating grid format.
